@@ -1,0 +1,6 @@
+{
+  "name": "NepScan",
+  "description": "Fully offline document scanner and PDF creator with corner detection, filters, and native sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
